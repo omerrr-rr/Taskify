@@ -1,4 +1,4 @@
-# Pomodoro Timer App
+# Taskify
 
 A beautiful, fully-featured Pomodoro timer application built with Expo and React Native. This app helps you stay focused and productive with customizable work and break sessions, task management, and detailed statistics.
 
